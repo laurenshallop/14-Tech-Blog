@@ -5,3 +5,4 @@ test('format_date() returns a string', () => {
 
     expect(format_date(date)).toBe('7/26/2022');
 });
+
